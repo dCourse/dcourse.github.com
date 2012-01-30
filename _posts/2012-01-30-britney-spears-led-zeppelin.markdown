@@ -34,9 +34,9 @@ fejlesztő is van, akik munkája nélkül a rendszer közel sem lehetne olyan si
 
 Ugyanakkor fejlesztőhiány van, rengeteg kis IT cég dolgozik itthon Drupallal,
 és van több is, akik nagy multicégek nemzetközi portáljait fejlesztik.[(4)][n]
-Jó fejlesztőből viszont kevés van: kevés a itthon a megfelelő képzés[(5)][n],
-így a fejlesztők saját erőből, vagy éppen céges támogatással tudnak csak
-megfelelő szintre jutni.
+Jó fejlesztőből viszont kevés van: kevés itthon a megfelelő képzés[(5)][n], így
+a fejlesztők saját erőből, vagy éppen céges támogatással tudnak csak megfelelő
+szintre jutni.
 
 ![Hojtsy Gábor][i-goba]
 
@@ -74,7 +74,7 @@ itarato, Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam)_
 
 ---------------------------------------------------------------------------------
 
-1. [Ismertebb cégek és személyiségek Drupal oldalainak listája][ds]
+1. [Ismertebb cégek és személyek Drupal oldalainak listája][ds]
 2. Az, hogy a Twitter Drupal-t használ, az nem azt jelenti, hogy a Twitter
    Drupal-on fut, hanem hogy van olyan szolgáltatásuk ami igen. Ugyan így más
    hasonló cégeknél is.
