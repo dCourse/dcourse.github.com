@@ -61,7 +61,11 @@ PHP alapszintű (lehetőleg haladó) ismerete viszont elengedhetetlen.
 **Megjegyzések:**
 
 _Hojtsy Gábor és Kléri Bálint jóváhagyták, hogy közzétegyem a róluk készült
-képen, a kurzuson azonban sajnos nem tudnak részt venni... :)_
+képet, a kurzuson azonban sajnos nem tudnak részt venni... :)_
+
+_És persze rajtuk kívül is rengetegen vannak még akik említést érdemelnek a
+fiatal magyarok közül, most csak ahogy eszembe jutnak: snufkin, itarato,
+Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam :)_
 
 ---------------------------------------------------------------------------------
 
