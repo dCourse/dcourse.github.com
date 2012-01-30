@@ -58,6 +58,7 @@ PHP alapszintű (lehetőleg haladó) ismerete viszont elengedhetetlen.
 [http://dcourse.github.com][dc]**
 
 <hr id="footnotes" />
+**Megjegyzések:**
 
 1. [Ismertebb cégek és személyiségek Drupal oldalainak listája][ds]
 2. Az, hogy a Twitter Drupal-t használ, az nem azt jelenti, hogy a Twitter
