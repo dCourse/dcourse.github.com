@@ -51,6 +51,10 @@ működésével.
 
 A kurzus előadója Juhász Márton az [Integral Vision Kft.][iv] fejlesztője.
 
+Megfelelő érdeklődés esetén pedig számíthatunk rá, hogy egy vagy két alkalommal
+vendégelőadó lesz [Palócz István][pp], aki valószínűleg a legelismertebb magyar
+Drupal oktató.[(6)][n]
+
 A kurzuson való részvételnek nem előfeltétele a Drupal ismerete, a HTML, CSS és
 PHP alapszintű (lehetőleg haladó) ismerete viszont elengedhetetlen.
 
@@ -58,6 +62,7 @@ PHP alapszintű (lehetőleg haladó) ismerete viszont elengedhetetlen.
 [http://dcourse.github.com][dc]**
 
 <hr id="footnotes" />
+
 **Megjegyzések:**
 
 _Hojtsy Gábor és Kléri Bálint jóváhagyták, hogy közzétegyem a róluk készült
@@ -65,7 +70,7 @@ képet, a kurzuson azonban sajnos nem tudnak részt venni... :)_
 
 _És persze rajtuk kívül is rengetegen vannak még akik említést érdemelnek a
 fiatal magyarok közül, most csak ahogy eszembe jutnak: snufkin, itarato,
-Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam :)_
+Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam)_
 
 ---------------------------------------------------------------------------------
 
@@ -79,6 +84,8 @@ Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam :)_
 5. A legszínvonalasabb állandó képzés itthon - ha még létezik - a Szegedi
    Tudományegyetemen van, többek között ennek is köszönhető, hogy Szeged igazi
    Drupal fellegvárnak számít Közép-Európában.
+6. PP-vel még nem egyeztünk meg pontosan, de ha az előadások olyan időpontban
+   lesznek, hogy Budapestről le és vissza is tud utazni, akkor számíthatunk rá.
 
 [n]: #footnotes
 
@@ -88,6 +95,7 @@ Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam :)_
 [120]: http://it-jobs.fins.com/Articles/SBB0001424052970204661604577185080299277286/Acquia-to-Hire-120-This-Year-Hosting-25-Interns
 [dc]: http://dcourse.github.com
 [iv]: http://integralvision.hu
+[pp]: http://palocz.hu
 
 [i-kleri]: /images/2012-01-30-kleri.png "Kléri Bálint"
 [i-goba]: /images/2012-01-30-goba.png "Hojtsy Gábor"
