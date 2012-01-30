@@ -69,8 +69,8 @@ _Hojtsy Gábor és Kléri Bálint jóváhagyták, hogy közzétegyem a róluk k�
 képet, a kurzuson azonban sajnos nem tudnak részt venni... :)_
 
 _És persze rajtuk kívül is rengetegen vannak még akik említést érdemelnek a
-fiatal magyarok közül, most csak ahogy eszembe jutnak: snufkin, itarato,
-Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam)_
+magyarok közül, most csak ahogy eszembe jutnak: chx, Pasqualle,  snufkin,
+itarato, Coornail, Novák Áron, Zserno, stbstb. (szóljon akit kihagytam)_
 
 ---------------------------------------------------------------------------------
 
