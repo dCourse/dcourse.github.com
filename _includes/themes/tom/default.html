@@ -21,10 +21,10 @@
   <div class="site">
     <div class="title">
       <a href="{{ HOME_PATH }}">{{ site.title }}</a>
-      <a class="extra" href="/archive.html">Archive</a>
-      <a class="extra" href="/pages.html">Pages</a>
-      <a class="extra" href="/categories.html">Categories</a>
-      <a class="extra" href="/tags.html">Tags</a>
+      <!--<a class="extra" href="/archive.html">Archive</a>-->
+      <!--<a class="extra" href="/pages.html">Pages</a>-->
+      <!--<a class="extra" href="/categories.html">Categories</a>-->
+      <!--<a class="extra" href="/tags.html">Tags</a>-->
     </div>
   
     {{ content }}
@@ -33,7 +33,6 @@
       <div class="contact">
         <p>
           {{ site.author.name }}<br />
-          {{ site.tagline }}<br />
           {{ site.author.email }}
         </p>
       </div>
@@ -41,13 +40,7 @@
         <p>
           <a href="http://github.com/{{ site.author.github }}/">github.com/{{ site.author.github }}</a><br />
           <a href="http://twitter.com/{{ site.author.twitter }}/">twitter.com/{{ site.author.twitter }}</a><br />
-          <a href="http://flickr.com/photos/username/">flickr.com/photos/username</a>
         </p>
-      </div>
-      <div class="rss">
-        <a href="http://feeds.feedburner.com/username">
-          <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
-        </a>
       </div>
     </div>
   </div>
