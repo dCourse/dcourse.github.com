@@ -60,6 +60,11 @@ PHP alapszintű (lehetőleg haladó) ismerete viszont elengedhetetlen.
 <hr id="footnotes" />
 **Megjegyzések:**
 
+_Hojtsy Gábor és Kléri Bálint jóváhagyták, hogy közzétegyem a róluk készült
+képen, a kurzuson azonban sajnos nem tudnak részt venni... :)_
+
+---------------------------------------------------------------------------------
+
 1. [Ismertebb cégek és személyiségek Drupal oldalainak listája][ds]
 2. Az, hogy a Twitter Drupal-t használ, az nem azt jelenti, hogy a Twitter
    Drupal-on fut, hanem hogy van olyan szolgáltatásuk ami igen. Ugyan így más
