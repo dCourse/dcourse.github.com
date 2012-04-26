@@ -19,9 +19,9 @@ Kiselőadásnak az alábbi témák közül válogathat, aki még nem választott
 
 ## Fejlesztést segítő modulok
 
-<http://drupal.org/project/drush>
-<http://drupal.org/project/devel>
-<http://drupal.org/project/coder>
+<http://drupal.org/project/drush>  
+<http://drupal.org/project/devel>  
+<http://drupal.org/project/coder>  
 
 ## Drupal alapú termékek és szolgáltatások, Drupalra specializálódott vállalatok
 
